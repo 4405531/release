@@ -3,10 +3,10 @@
 
 
 
-### 安装Mysql，3分钟
+### 安装Mysql，5分钟
 
 - 从[官网](http://dev.mysql.com/downloads/)下载
-
+- 参考[repository](https://github.com/btlike/repository)建立表结构
 
 
 ### 安装Elasticsearch，5分钟
