@@ -19,12 +19,12 @@
 
 根据运行环境选择下载
 
-- [linux_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/linux_amd64.zip)
-- [linux_386.zip](http://obu2kw0g0.bkt.clouddn.com/linux_386.zip)
-- [windows_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/windows_amd64.zip)
-- [windows_386.zip](http://obu2kw0g0.bkt.clouddn.com/windows_386.zip)
-- [darwin_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/darwin_amd64.zip)
-- [darwin_386.zip](http://obu2kw0g0.bkt.clouddn.com/darwin_386.zip)
+- [linux_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/release_linux_amd64.zip)
+- [linux_386.zip](http://obu2kw0g0.bkt.clouddn.com/release_linux_386.zip)
+- [windows_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/release_windows_amd64.zip)
+- [windows_386.zip](http://obu2kw0g0.bkt.clouddn.com/release_windows_386.zip)
+- [darwin_amd64.zip](http://obu2kw0g0.bkt.clouddn.com/release_darwin_amd64.zip)
+- [darwin_386.zip](http://obu2kw0g0.bkt.clouddn.com/release_darwin_386.zip)
 
 目录结构
 
